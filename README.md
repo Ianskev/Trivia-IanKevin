@@ -1,6 +1,6 @@
 # TRIVIA-DE HISTORIA UNIVERSAL
 
-¿Te crees capaz de pasar esta trivia de historia? Recuerda que abarcamos todos los continentes y muchas de las culturas del mundo. ¡Comprueba cuánto sabes!
+¿Te crees capaz de pasar esta trivia de historia? Recuerda que abarcamos muchas de las culturas del mundo. ¡Comprueba cuánto sabes!
 
 * Por cada respuesta correcta se te sumaran entre 1 y 10 puntos
 * Por cada respuesta incorrecta se te restaran entre 1 y 5 puntos
